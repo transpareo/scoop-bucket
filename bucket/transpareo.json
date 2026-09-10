@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/transpareo/transpareo-cli/releases/download/v1.0.0/transpareo_1.0.0_windows_amd64.zip",
+            "bin": [
+                "transpareo.exe"
+            ],
+            "hash": "dfea5c40b22023025c89342b7a8fea0e07e48389de9e5fdf38d555c0d11b203f"
+        },
+        "arm64": {
+            "url": "https://github.com/transpareo/transpareo-cli/releases/download/v1.0.0/transpareo_1.0.0_windows_arm64.zip",
+            "bin": [
+                "transpareo.exe"
+            ],
+            "hash": "e17813783a73995e18ab7221981622217848809154f273919969765c84c50a9d"
+        }
+    },
+    "homepage": "https://transpareo.com",
+    "license": "MIT",
+    "description": "Command-line tool, MCP server and Go client for the Transpareo API"
+}
