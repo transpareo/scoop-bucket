@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/transpareo/transpareo-cli/releases/download/v1.1.0/transpareo_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/transpareo/transpareo-cli/releases/download/v1.2.1/transpareo_1.2.1_windows_amd64.zip",
             "bin": [
                 "transpareo.exe"
             ],
-            "hash": "2cf9b8aa28b9ebda7d21390d140253c704f2b9a250c239a7c73ffddebd5a4675"
+            "hash": "8d12633de706b24fe4d2e0a95071615d30096a031f4ef29a83d650e8fb173edb"
         },
         "arm64": {
-            "url": "https://github.com/transpareo/transpareo-cli/releases/download/v1.1.0/transpareo_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/transpareo/transpareo-cli/releases/download/v1.2.1/transpareo_1.2.1_windows_arm64.zip",
             "bin": [
                 "transpareo.exe"
             ],
-            "hash": "651799d1b9f1dedcbda506d2d19794fe480d5b2d842dc237867b2b3d4be50246"
+            "hash": "de7a5deb293824f9181709135cd4130f1e3553a7bd2e2d14eb2534612817587b"
         }
     },
     "homepage": "https://transpareo.com",
